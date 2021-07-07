@@ -1,6 +1,6 @@
-# repository-template
+# discord-bot-examples
 
-DiscordBotPortalJP Organization でリポジトリを作る際に使用するテンプレート
+Discord Bot に関する様々な機能や言語のサンプルコード集
 
 # 運用ルール
 - 自作コードの追加/変更に関してはmainへの直接push可
