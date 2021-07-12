@@ -1,0 +1,1 @@
+[javascript/discord.js-v12を参照](../../javascript/discord.js-v12/readme.md)
