@@ -1,9 +1,12 @@
-const { Client, Intents, Permissions, APIMessage } = require("discord.js");
+const { Client, Intents, Permissions } = require("discord.js");
 const DISCORD_BOT_TOKEN = process.env.DISCORD_BOT_TOKEN;
 const client = new Client({
   ws: {
     // GUILDSはキャッシュのために必要
-    intents: Intents.FLAGS.GUILDS | Intents.FLAGS.GUILD_MESSAGES,
+    intents:
+      Intents.FLAGS.GUILDS |
+      Intents.FLAGS.GUILD_MESSAGES |
+      Intents.FLAGS.DIRECT_MESSAGES,
   },
   partials: ["GUILD_MEMBER", "USER"],
 });
@@ -19,12 +22,8 @@ async function onMessage(message) {
   if (message.content !== "!ping") {
     return;
   }
-  const reply = new APIMessage(message.channel, {
-    content: "pong!",
-  });
-  reply.resolveData();
-  reply.data.message_reference = { message_id: message.id };
-  await message.channel.send(reply);
+
+  await message.channel.send(`${message.author} pong!`);
 }
 client.on("message", (message) => {
   onMessage(message).catch((err) => console.error(err));
