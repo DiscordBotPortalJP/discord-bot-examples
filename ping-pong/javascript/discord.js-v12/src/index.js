@@ -30,7 +30,7 @@ client.on("message", (message) => {
 });
 client.once("ready", () => {
   const clientUser = client.user;
-  console.log(`Logged in as: ${clientUser.tag}#${clientUser.tag}`);
+  console.log(`Logged in as: ${clientUser.tag}`);
   console.log(
     `Invite Link: https://discord.com/api/oauth2/authorize?client_id=${clientUser.id}&permissions=${permissions.bitfield}&scope=bot`
   );
