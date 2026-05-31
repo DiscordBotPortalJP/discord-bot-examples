@@ -1,13 +1,13 @@
-# Contributing Guide
+# コントリビュートガイド
 
-## How to contribute?
+## 参加方法
 
-You can find problems from Issues or fix other problems.
+Issue から改善点を探したり、見つけた問題を修正したりできます。
 
-Basic Pull Request steps:
+基本的な Pull Request 手順:
 
-1. Fork this repository
-1. Create your feature branch: `git checkout -b awesome-feature`
-1. Commit your changes: `git commit -am "Add awesome feature"`
-1. Push to the branch: `git push origin awesome-feature`
-1. Submit a pull request to this repository
+1. このリポジトリを fork する
+1. 作業 branch を作成する: `git checkout -b awesome-feature`
+1. 変更を commit する: `git commit -am "Add awesome feature"`
+1. branch を push する: `git push origin awesome-feature`
+1. このリポジトリへ Pull Request を作成する

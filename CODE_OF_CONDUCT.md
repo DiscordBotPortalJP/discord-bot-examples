@@ -1,76 +1,47 @@
-# Contributor Covenant Code of Conduct
+# 行動規範
 
-## Our Pledge
+## 私たちの約束
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+このプロジェクトでは、参加者とメンテナーが安心して協力できる場を守ります。年齢、体格、障害、民族、性自認や性表現、経験、学歴、経済状況、国籍、外見、人種、宗教、性的指向などに関係なく、誰もがハラスメントを受けずに参加できる環境を目指します。
 
-## Our Standards
+## 期待されるふるまい
 
-Examples of behavior that contributes to creating a positive environment
-include:
+望ましいふるまいの例:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+- 歓迎的で包摂的な言葉を使う
+- 異なる視点や経験を尊重する
+- 建設的な批判を落ち着いて受け止める
+- コミュニティ全体にとってよい判断を優先する
+- 他の参加者へ思いやりを持つ
 
-Examples of unacceptable behavior by participants include:
+認められないふるまいの例:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
- advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
- address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
- professional setting
+- 性的な表現、画像、または望まれない性的な注目や接触
+- 挑発、侮辱、個人攻撃、政治的攻撃
+- 公開または非公開でのハラスメント
+- 明示的な許可なく住所やメールアドレスなどの個人情報を公開すること
+- 専門的な場にふさわしくないと合理的に判断されるその他の行為
 
-## Our Responsibilities
+## メンテナーの責任
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+メンテナーは、許容されるふるまいの基準を明確にし、不適切な行為があった場合に公正で適切な対応を行います。
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+メンテナーは、この行動規範に沿わないコメント、コミット、コード、Wiki 編集、Issue、その他の貢献を削除、編集、却下できます。また、不適切、脅迫的、攻撃的、有害と判断される行為をした参加者を一時的または恒久的に参加停止にできます。
 
-## Scope
+## 適用範囲
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+この行動規範は、プロジェクト内の場に加えて、個人がプロジェクトやコミュニティを代表している公共の場にも適用されます。代表行為には、公式メールアドレスの利用、公式ソーシャルメディアからの投稿、オンラインまたはオフラインイベントで任命された代表として行動することなどが含まれます。必要に応じて、メンテナーが代表行為の範囲を補足します。
 
-## Enforcement
+## 違反の報告と対応
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at contact@discordbot.jp. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+不適切な行為、ハラスメント、その他受け入れられない行為は、`contact@discordbot.jp` まで報告できます。すべての報告は確認・調査され、状況に応じて必要かつ適切な対応を行います。プロジェクトチームは、報告者に関する秘密を守ります。詳細な対応方針は別途公開する場合があります。
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+メンテナーが誠実にこの行動規範を守らない、または実施しない場合、プロジェクト運営メンバーの判断により一時的または恒久的な措置の対象になることがあります。
 
-## Attribution
+## 出典
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+この行動規範は [Contributor Covenant][homepage] version 1.4 をもとにしています。
+
+原文: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
